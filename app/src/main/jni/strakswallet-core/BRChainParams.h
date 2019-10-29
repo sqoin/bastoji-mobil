@@ -47,11 +47,11 @@ typedef struct {
 } BRChainParams;
 
 static const char *BRMainNetDNSSeeds[] = {
-      "x11.dns1.bastoji.com", "x11.dns2.bastoji.com", "x11.dns3.bastoji.com", NULL
+      "x11.dns1.sqoin.us", "x11.dns2.sqoin.us", "x11.dns3.sqoin.us", NULL
 };
 
 static const char *BRTestNetDNSSeeds[] = {
-   "x11.dns1.bastoji.com" , "x11.dns1.bastoji.com", "x11.dns1.bastoji.com", NULL
+   "x11.dns1.sqoin.us" , "x11.dns1.sqoin.us", "x11.dns1.sqoin.us", NULL
 };
 
 // blockchain checkpoints - these are also used as starting points for partial chain downloads, so they must be at
